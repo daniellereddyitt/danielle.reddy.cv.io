@@ -1,0 +1,152 @@
+#role
+{
+    color: black;
+    font-style: oblique;
+}
+
+body
+{
+    background-color: #e8edea;
+}
+
+#search
+{
+    float: right;
+    text-align: right;
+    margin-left: 80%;
+}
+
+h2{
+    font-weight: bold;
+}
+
+#gradeButton
+{
+    color: white;
+    background-color: green;
+}
+
+#gradeButton1
+{
+    background-color: grey;
+}
+
+#education, #projects, #workExp header{
+    margin-left: 	1em;
+    padding-top:	5em;
+}
+
+#grades{
+    margin-left: 1em;
+}
+
+#projects, #workExp, #hobbies
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#workExp{
+    padding-top: 5em;
+}
+
+#projectInfo{
+    text-align: center;
+}
+
+#page
+{
+    background-image: url('backer.jpg'); 
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#educ
+{
+    align-self: center;
+    margin-left: 85px;
+    
+}
+h4{
+    color: #8a96a8;
+}
+
+h5{
+    font-weight: italic;
+}
+
+.card
+{
+    font-style: bold;
+}
+
+.col
+{
+    padding-left: 35px;
+}
+
+.modal-title
+{
+    text-align: center;
+}
+
+#aboutMe{
+
+    padding-top: 5em;
+    align-self: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: right;
+    border-block: black;
+}
+
+#course
+{
+    font-weight: bold;
+    color: black;
+}
+
+.navbar{
+    position: fixed; 
+    width: 100%;
+}
+
+
+
+#profile
+{
+    justify-content: center;
+    
+}
+ 
+header {
+    text-align: center;
+    color:			green;
+}
+  
+.img-circle
+{
+    text-align: center;
+}
+
+header p{
+    color:			black;
+    padding:		1em 10em 0em 10em;
+}
+
+#welcomeButtons {
+    
+    display: 		table;
+    margin: 		0 auto;
+}
+
+#ppInfo
+{
+    text-align: right;
+}
+
+#SAP 
+{
+    color: #0069b0;
+}
+
